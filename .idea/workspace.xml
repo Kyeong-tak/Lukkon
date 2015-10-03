@@ -1,86 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="089ed994-dd4c-4425-91b5-2e5b1c4b3ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photo/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photo/views.py" />
-      <change type="DELETED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\urls.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\views.py" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\__init__.py" afterPath="$PROJECT_DIR$/photo/__init__.py" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\admin.py" afterPath="$PROJECT_DIR$/photo/admin.py" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\migrations\0001_initial.py" afterPath="$PROJECT_DIR$/photo/migrations/0001_initial.py" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\migrations\0002_photo_description.py" afterPath="$PROJECT_DIR$/photo/migrations/0002_photo_description.py" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\migrations\__init__.py" afterPath="$PROJECT_DIR$/photo/migrations/__init__.py" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\models.py" afterPath="$PROJECT_DIR$/photo/models.py" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\animate.min.css" afterPath="$PROJECT_DIR$/photo/templates/css/animate.min.css" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\bootstrap.css" afterPath="$PROJECT_DIR$/photo/templates/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/photo/templates/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\lukkon.css" afterPath="$PROJECT_DIR$/photo/templates/css/lukkon.css" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\css\font-awesome.css" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/css/font-awesome.css" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\bordered-pulled.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\core.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/core.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\fixed-width.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/fixed-width.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\font-awesome.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/font-awesome.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\icons.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/icons.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\larger.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/larger.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\list.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/list.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\mixins.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/mixins.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\path.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/path.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\rotated-flipped.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\spinning.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/spinning.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\stacked.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/stacked.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\variables.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/variables.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_bordered-pulled.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_core.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_core.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_fixed-width.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_fixed-width.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_icons.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_icons.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_larger.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_larger.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_list.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_list.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_mixins.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_mixins.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_path.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_path.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_rotated-flipped.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_spinning.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_spinning.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_stacked.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_stacked.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_variables.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_variables.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\font-awesome.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/font-awesome.scss" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\header.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/header.jpg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\1.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/1.jpg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\2.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/2.jpg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\3.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/3.jpg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\4.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/4.jpg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\5.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/5.jpg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\6.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/6.jpg" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\index.html" afterPath="$PROJECT_DIR$/photo/templates/index.html" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\bootstrap.js" afterPath="$PROJECT_DIR$/photo/templates/js/bootstrap.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/photo/templates/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/photo/templates/js/cbpAnimatedHeader.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\classie.js" afterPath="$PROJECT_DIR$/photo/templates/js/classie.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\jquery.easing.min.js" afterPath="$PROJECT_DIR$/photo/templates/js/jquery.easing.min.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\jquery.fittext.js" afterPath="$PROJECT_DIR$/photo/templates/js/jquery.fittext.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\jquery.js" afterPath="$PROJECT_DIR$/photo/templates/js/jquery.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\lukkon.js" afterPath="$PROJECT_DIR$/photo/templates/js/lukkon.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\wow.min.js" afterPath="$PROJECT_DIR$/photo/templates/js/wow.min.js" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\less\creative.less" afterPath="$PROJECT_DIR$/photo/templates/less/creative.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\less\mixins.less" afterPath="$PROJECT_DIR$/photo/templates/less/mixins.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\less\variables.less" afterPath="$PROJECT_DIR$/photo/templates/less/variables.less" />
-      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\tests.py" afterPath="$PROJECT_DIR$/photo/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Lukkon.iml" afterPath="$PROJECT_DIR$/.idea/Lukkon.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lukkon/settings.py" afterPath="$PROJECT_DIR$/Lukkon/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lukkon/urls.py" afterPath="$PROJECT_DIR$/Lukkon/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="089ed994-dd4c-4425-91b5-2e5b1c4b3ebe" name="Default" comment="" />
     <ignored path="Lukkon.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -597,7 +518,13 @@
       <option name="project" value="LOCAL" />
       <updated>1443794554988</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="photo model added">
+      <created>1443867531546</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1443867531546</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -606,6 +533,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -619,7 +547,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -680,6 +607,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -687,6 +615,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -694,6 +623,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42307693" vertical-offset="56" max-vertical-offset="420">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,6 +631,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16483517" vertical-offset="0" max-vertical-offset="364">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -708,6 +641,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
