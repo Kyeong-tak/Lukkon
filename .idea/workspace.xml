@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="089ed994-dd4c-4425-91b5-2e5b1c4b3ebe" name="Default" comment="" />
+    <list default="true" id="089ed994-dd4c-4425-91b5-2e5b1c4b3ebe" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photo/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photo/views.py" />
+      <change type="DELETED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\views.py" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\__init__.py" afterPath="$PROJECT_DIR$/photo/__init__.py" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\admin.py" afterPath="$PROJECT_DIR$/photo/admin.py" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\migrations\0001_initial.py" afterPath="$PROJECT_DIR$/photo/migrations/0001_initial.py" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\migrations\0002_photo_description.py" afterPath="$PROJECT_DIR$/photo/migrations/0002_photo_description.py" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\migrations\__init__.py" afterPath="$PROJECT_DIR$/photo/migrations/__init__.py" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\models.py" afterPath="$PROJECT_DIR$/photo/models.py" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\animate.min.css" afterPath="$PROJECT_DIR$/photo/templates/css/animate.min.css" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\bootstrap.css" afterPath="$PROJECT_DIR$/photo/templates/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/photo/templates/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\css\lukkon.css" afterPath="$PROJECT_DIR$/photo/templates/css/lukkon.css" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\css\font-awesome.css" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\bordered-pulled.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\core.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/core.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\fixed-width.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/fixed-width.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\font-awesome.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/font-awesome.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\icons.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/icons.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\larger.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/larger.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\list.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/list.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\mixins.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/mixins.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\path.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/path.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\rotated-flipped.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\spinning.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/spinning.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\stacked.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/stacked.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\less\variables.less" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/less/variables.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_bordered-pulled.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_core.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_core.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_fixed-width.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_icons.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_icons.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_larger.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_larger.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_list.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_list.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_mixins.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_path.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_path.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_rotated-flipped.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_spinning.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_spinning.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_stacked.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\_variables.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/_variables.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\font-awesome\scss\font-awesome.scss" afterPath="$PROJECT_DIR$/photo/templates/font-awesome/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/photo/templates/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\header.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/header.jpg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\1.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/1.jpg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\2.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/2.jpg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\3.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/3.jpg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\4.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\5.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/5.jpg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\img\portfolio\6.jpg" afterPath="$PROJECT_DIR$/photo/templates/img/portfolio/6.jpg" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\index.html" afterPath="$PROJECT_DIR$/photo/templates/index.html" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\bootstrap.js" afterPath="$PROJECT_DIR$/photo/templates/js/bootstrap.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/photo/templates/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/photo/templates/js/cbpAnimatedHeader.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\classie.js" afterPath="$PROJECT_DIR$/photo/templates/js/classie.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\jquery.easing.min.js" afterPath="$PROJECT_DIR$/photo/templates/js/jquery.easing.min.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\jquery.fittext.js" afterPath="$PROJECT_DIR$/photo/templates/js/jquery.fittext.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\jquery.js" afterPath="$PROJECT_DIR$/photo/templates/js/jquery.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\lukkon.js" afterPath="$PROJECT_DIR$/photo/templates/js/lukkon.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\js\wow.min.js" afterPath="$PROJECT_DIR$/photo/templates/js/wow.min.js" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\less\creative.less" afterPath="$PROJECT_DIR$/photo/templates/less/creative.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\less\mixins.less" afterPath="$PROJECT_DIR$/photo/templates/less/mixins.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\templates\less\variables.less" afterPath="$PROJECT_DIR$/photo/templates/less/variables.less" />
+      <change type="MOVED" beforePath="C:\Users\송동환\Documents\GitHub\Lukkon\blog\tests.py" afterPath="$PROJECT_DIR$/photo/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Lukkon.iml" afterPath="$PROJECT_DIR$/.idea/Lukkon.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lukkon/settings.py" afterPath="$PROJECT_DIR$/Lukkon/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lukkon/urls.py" afterPath="$PROJECT_DIR$/Lukkon/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Lukkon.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,7 +106,62 @@
     <favorites_list name="Lukkon" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="lukkon.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photo/templates/css/lukkon.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9253">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photo/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-187.28572" vertical-offset="0" max-vertical-offset="9538">
+              <caret line="276" column="53" selection-start-line="276" selection-start-column="53" selection-end-line="276" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/photo/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10259179" vertical-offset="0" max-vertical-offset="926">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photo/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photo/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,10 +171,11 @@
       <list>
         <option value="$PROJECT_DIR$/Lukkon/settings.py" />
         <option value="$PROJECT_DIR$/blog/admin.py" />
-        <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/Lukkon/urls.py" />
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/blog/__init__.py" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
+        <option value="$PROJECT_DIR$/blog/views.py" />
       </list>
     </option>
   </component>
@@ -48,10 +183,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
-    <option name="y" value="110" />
-    <option name="width" value="1366" />
-    <option name="height" value="677" />
+    <option name="x" value="2319" />
+    <option name="y" value="-312" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -105,7 +240,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="photo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -119,7 +254,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
+              <option name="myItemId" value="photo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lukkon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lukkon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lukkon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lukkon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="photo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -146,7 +321,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Djangogirl" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -158,72 +333,10 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Django server.Lukkon">
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lukkon" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lukkon" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lukkon" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="file://$PROJECT_DIR$/blog/templates/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -242,32 +355,6 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Lukkon" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
@@ -307,7 +394,7 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -325,15 +412,51 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lukkon" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lukkon" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -356,7 +479,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+    <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -367,7 +490,64 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Lukkon" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lukkon" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lukkon" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Lukkon" type="Python.DjangoServer" factoryName="Django server">
@@ -393,9 +573,15 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Django server.Lukkon" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -415,30 +601,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="110" width="1366" height="677" extended-state="0" />
-    <editor active="false" />
+    <frame x="2319" y="-312" width="974" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25906345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2822757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -477,7 +663,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -490,63 +676,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tests.py">
+    <entry file="file://$PROJECT_DIR$/photo/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/migrations/__init__.py">
+    <entry file="file://$PROJECT_DIR$/photo/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/migrations/0001_initial.py">
+    <entry file="file://$PROJECT_DIR$/photo/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42307693" vertical-offset="56" max-vertical-offset="420">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+    <entry file="file://$PROJECT_DIR$/photo/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16483517" vertical-offset="0" max-vertical-offset="364">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16483517" vertical-offset="0" max-vertical-offset="364">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/__init__.py">
+    <entry file="file://$PROJECT_DIR$/photo/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12362637" vertical-offset="0" max-vertical-offset="364">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +716,51 @@
         <state vertical-scroll-proportion="0.4945055" vertical-offset="0" max-vertical-offset="364">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo/templates/css/lukkon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9253">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-187.28572" vertical-offset="0" max-vertical-offset="9538">
+          <caret line="276" column="53" selection-start-line="276" selection-start-column="53" selection-end-line="276" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10259179" vertical-offset="0" max-vertical-offset="926">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
