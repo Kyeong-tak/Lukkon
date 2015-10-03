@@ -10,3 +10,4 @@ urlpatterns = patterns('',
     # url(r'^accounts/login/$', 'django.contrib.auth.views.login'),
     # url(r'^accounts/logout/$', 'django.contrib.auth.views.logout', {'next_page': '/'}),
 )
+# Test comment
